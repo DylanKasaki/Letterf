@@ -1,0 +1,29 @@
+{
+  "letters": [
+    {
+      "id": 1,
+      "greeting": "Dear You,",
+      "body": "Just a tiny note to remind you that soft things can still be strong, kind hearts leave the biggest sparkle, and you make the world feel a little sweeter just by being in it. Keep going — quietly, steadily, beautifully.",
+      "sign_off": "With warmth,"
+    },
+    {
+      "id": 2,
+      "greeting": "To Someone Wonderful,",
+      "body": "If today feels a bit heavy, tuck this little letter in your pocket. You are doing better than you think, and small steps still count as magic. The world notices the light you carry even when you forget it's there.",
+      "sign_off": "Rooting for you,"
+    },
+    {
+      "id": 3,
+      "greeting": "For You, Always,",
+      "body": "Some people feel like sunshine in a handwritten form. This is your reminder that your warmth, your effort, and your little quirks are all deeply lovable. The right people already know this — and they're grateful.",
+      "sign_off": "With love,"
+    },
+    {
+      "id": 4,
+      "greeting": "Hello, Dear Heart,",
+      "body": "Not every day needs to be a masterpiece. Some days are just quiet brushstrokes — and those matter too. Rest when you need to. The painting isn't going anywhere, and neither are the people who admire it.",
+      "sign_off": "Tenderly,"
+    }
+  ],
+  "author": "A Friend"
+}
